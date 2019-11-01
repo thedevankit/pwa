@@ -9,3 +9,8 @@ https://www.youtube.com/watch?v=FpJ_XyPmWzY&list=PLOa5YIicjJ-UmYumbp0dBwpVTvRX02
 
 **Course**
 https://www.udemy.com/course/angular-pwa-course/
+
+server:
+npm install -g http-server-spa@1.3.0
+ng build --prod --source-map
+http-server-spa dist/AngularBooksPWA/ index.html 8080
