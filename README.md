@@ -2,6 +2,8 @@
 
 https://developer.okta.com/blog/2019/01/30/first-angular-pwa
 
+#Demo
+ 1. https://vigilant-nightingale-7053bb.netlify.com/ 
 
 **Videos**
 https://www.youtube.com/watch?v=FpJ_XyPmWzY&list=PLOa5YIicjJ-UmYumbp0dBwpVTvRX02GTh
