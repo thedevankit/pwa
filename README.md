@@ -16,3 +16,9 @@ server:
 npm install -g http-server-spa@1.3.0
 ng build --prod --source-map
 http-server-spa dist/AngularBooksPWA/ index.html 8080
+
+
+## Api Errors 
+
+**How to solve Error on delete and put request on iis server 
+1. https://stackoverflow.com/questions/48188895/asp-net-core-with-iis-http-verb-not-allowed
