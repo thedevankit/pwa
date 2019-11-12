@@ -1,6 +1,8 @@
 # Angular-pwa-Imp
 
-https://developer.okta.com/blog/2019/01/30/first-angular-pwa
+ 1. [first-angular-pwa](https://developer.okta.com/blog/2019/01/30/first-angular-pwa)
+ 2. [how-to-handle-post-put-requests-in-offline-applications-using-service-workers](https://blog.formpl.us/how-to-handle-post-put-requests-in-offline-applications-using-service-workers-indexedb-and-da7d0798a9ab
+)
 
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
