@@ -7,14 +7,14 @@
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
 
-**Videos**
+## Videos
 https://www.youtube.com/watch?v=FpJ_XyPmWzY&list=PLOa5YIicjJ-UmYumbp0dBwpVTvRX02GTh
 (Anguar University)
 
-**Course**
+## Course
 https://www.udemy.com/course/angular-pwa-course/
 
-server:
+#### server:
 npm install -g http-server-spa@1.3.0
 ng build --prod --source-map
 http-server-spa dist/AngularBooksPWA/ index.html 8080
