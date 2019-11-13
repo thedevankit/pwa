@@ -9,9 +9,10 @@
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
 
 ## Videos
-https://www.youtube.com/watch?v=FpJ_XyPmWzY&list=PLOa5YIicjJ-UmYumbp0dBwpVTvRX02GTh
-(Anguar University)
-
+ 1. [Anguar University Pwa](https://www.youtube.com/watch?v=FpJ_XyPmWzY&list=PLOa5YIicjJ-UmYumbp0dBwpVTvRX02GTh)
+ 2. [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+ 
+ 
 ## Course
 https://www.udemy.com/course/angular-pwa-course/
 
