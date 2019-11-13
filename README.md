@@ -4,7 +4,7 @@
  2. [how-to-handle-post-put-requests-in-offline-applications-using-service-workers](https://blog.formpl.us/how-to-handle-post-put-requests-in-offline-applications-using-service-workers-indexedb-and-da7d0798a9ab)
  3. [angular-service-worker](https://blog.angular-university.io/angular-service-worker/)
  4. [Turn-your-angular-app-into-a-pwa-in-4-easy-steps](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
-
+ 5. [Angular Pwa Offilne IndexDb](https://mdbootstrap.com/education/pwa/angular/lesson-7-working-with-databases/)
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
 
