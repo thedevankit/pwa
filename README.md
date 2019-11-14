@@ -5,6 +5,7 @@
  3. [angular-service-worker](https://blog.angular-university.io/angular-service-worker/)
  4. [Turn-your-angular-app-into-a-pwa-in-4-easy-steps](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
  5. [Angular Pwa Offilne IndexDb](https://mdbootstrap.com/education/pwa/angular/lesson-7-working-with-databases/)
+ 6. [Angular-pwa-indepth](https://blog.angularindepth.com/build-a-progressive-web-app-with-angular-bf7d66744020)
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
 
