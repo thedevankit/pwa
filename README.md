@@ -25,8 +25,6 @@ http-server-spa dist/AngularBooksPWA/ index.html 8080
 
 ## Api Errors 
 
-**1. Add To Home Screen**
-     https://stackoverflow.com/questions/39286385/defer-web-install-banner
+**1. [Add To Home Screen](https://stackoverflow.com/questions/39286385/defer-web-install-banner)**
 
-**2. How to solve Error on delete and put request on iis server**
-     https://stackoverflow.com/questions/48188895/asp-net-core-with-iis-http-verb-not-allowed
+**2. [How to solve Error on delete and put request on iis server](https://stackoverflow.com/questions/48188895/asp-net-core-with-iis-http-verb-not-allowed)**
