@@ -7,6 +7,8 @@
  5. [Angular Pwa Offilne IndexDb](https://mdbootstrap.com/education/pwa/angular/lesson-7-working-with-databases/)
  6. [Angular-pwa-indepth](https://blog.angularindepth.com/build-a-progressive-web-app-with-angular-bf7d66744020)
  7. [Creating-pwa-using-angular-7-step-by-step-guide](https://dev.to/ronakpatel70/creating-pwa-using-angular-7-step-by-step-guide-1mb3)
+ 8. [pwa-angular-6](https://www.smashingmagazine.com/2018/09/pwa-angular-6/)
+ 9. [Angular PWA Using Angular CLI](https://dzone.com/articles/developing-pwa-using-angular-7)
  
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
@@ -14,7 +16,7 @@
 ## Videos
  1. [Anguar University Pwa](https://www.youtube.com/watch?v=FpJ_XyPmWzY&list=PLOa5YIicjJ-UmYumbp0dBwpVTvRX02GTh)
  2. [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
- 
+ 3. [Progressive Web Apps - PWA Roadshow-Google](https://www.youtube.com/watch?v=z2JgN6Ae-Bo)
  
 ## Course
 https://www.udemy.com/course/angular-pwa-course/
