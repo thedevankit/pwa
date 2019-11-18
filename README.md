@@ -9,6 +9,7 @@
  7. [Creating-pwa-using-angular-7-step-by-step-guide](https://dev.to/ronakpatel70/creating-pwa-using-angular-7-step-by-step-guide-1mb3)
  8. [pwa-angular-6](https://www.smashingmagazine.com/2018/09/pwa-angular-6/)
  9. [Angular PWA Using Angular CLI](https://dzone.com/articles/developing-pwa-using-angular-7)
+ 10. [Important points to know about PWA :-Theory](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
  
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
@@ -17,6 +18,7 @@
  1. [Anguar University Pwa](https://www.youtube.com/watch?v=FpJ_XyPmWzY&list=PLOa5YIicjJ-UmYumbp0dBwpVTvRX02GTh)
  2. [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
  3. [Progressive Web Apps - PWA Roadshow-Google](https://www.youtube.com/watch?v=z2JgN6Ae-Bo)
+ 4. [PWA-Tutorial by google chrome devs](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
  
 ## Course
 https://www.udemy.com/course/angular-pwa-course/
