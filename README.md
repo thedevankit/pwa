@@ -10,6 +10,7 @@
  8. [pwa-angular-6](https://www.smashingmagazine.com/2018/09/pwa-angular-6/)
  9. [Angular PWA Using Angular CLI](https://dzone.com/articles/developing-pwa-using-angular-7)
  10. [Important points to know about PWA :-Theory](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
+ 11. [2018-state-of-progressive-web-apps](https://medium.com/progressive-web-apps/2018-state-of-progressive-web-apps-f7517d43ba70)
  
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
