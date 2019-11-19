@@ -29,7 +29,8 @@ npm install -g http-server-spa@1.3.0
 ng build --prod --source-map
 http-server-spa dist/AngularBooksPWA/ index.html 8080
 
-
+## Resources
+ 1. [pwabuilder](https://www.pwabuilder.com)
 ## Api Errors 
 
 **1. [Add To Home Screen](https://stackoverflow.com/questions/39286385/defer-web-install-banner)**
