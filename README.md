@@ -31,6 +31,7 @@ http-server-spa dist/AngularBooksPWA/ index.html 8080
 
 ## Resources
  1. [pwabuilder](https://www.pwabuilder.com)
+ 2. [pwa-starter-kit](https://pwa-starter-kit.polymer-project.org/)
 ## Api Errors 
 
 **1. [Add To Home Screen](https://stackoverflow.com/questions/39286385/defer-web-install-banner)**
