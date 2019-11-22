@@ -13,7 +13,13 @@
  11. [2018-state-of-progressive-web-apps](https://medium.com/progressive-web-apps/2018-state-of-progressive-web-apps-f7517d43ba70)
  12. [PWA-START-KIT](https://pwa-starter-kit.polymer-project.org/setup)
  
- 
+## Blogs
+  - https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc
+  - https://medium.com/@deepusnath/top-4-qualities-of-a-10x-programmer-e57f87663de3
+  - https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011
+  - https://blog.formpl.us/how-to-handle-post-put-requests-in-offline-applications-using-service-workers-indexedb-and-da7d0798a9ab
+  - https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada
+
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
 
