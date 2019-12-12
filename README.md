@@ -13,7 +13,9 @@
  10. [Important points to know about PWA :-Theory](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
  11. [2018-state-of-progressive-web-apps](https://medium.com/progressive-web-apps/2018-state-of-progressive-web-apps-f7517d43ba70)
  12. [PWA-START-KIT](https://pwa-starter-kit.polymer-project.org/setup)
- 
+ 13. [Angular-8-making-progressive-web-apps](https://medium.com/codingurukul/angular-8-making-progressive-web-apps-4e349ddaa8df)
+
+
 ## Blogs
   - https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc
   - https://medium.com/@deepusnath/top-4-qualities-of-a-10x-programmer-e57f87663de3
