@@ -15,6 +15,7 @@
  11. [2018-state-of-progressive-web-apps](https://medium.com/progressive-web-apps/2018-state-of-progressive-web-apps-f7517d43ba70)
  12. [PWA-START-KIT](https://pwa-starter-kit.polymer-project.org/setup)
  13. [Angular-8-making-progressive-web-apps](https://medium.com/codingurukul/angular-8-making-progressive-web-apps-4e349ddaa8df)
+ 14. [Progressive-web-apps-pwa-vs-native](https://insanelab.com/blog/web-development/progressive-web-apps-pwa-vs-native/)
 
 
 ## Blogs
