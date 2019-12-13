@@ -1,6 +1,7 @@
 # Angular-pwa-Imp
- - [Build-a-production-ready-pwa-with-angular](https://itnext.io/build-a-production-ready-pwa-with-angular-and-firebase-8f2a69824fcc)
-
+ - [Build-a-production-ready-pwa-with-angular](https://itnext.io/build-a-production-ready-pwa-with-angular-and-firebase-8f2a69824fcc) 
+ - [Design inspirations](https://tobiasahlin.com/spinkit/)
+ 
  1. [first-angular-pwa](https://developer.okta.com/blog/2019/01/30/first-angular-pwa)
  2. [how-to-handle-post-put-requests-in-offline-applications-using-service-workers](https://blog.formpl.us/how-to-handle-post-put-requests-in-offline-applications-using-service-workers-indexedb-and-da7d0798a9ab)
  3. [angular-service-worker](https://blog.angular-university.io/angular-service-worker/)
