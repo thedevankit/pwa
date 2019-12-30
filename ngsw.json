@@ -7,7 +7,7 @@
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
-      "urls": [
+      "files": [
         "./favicon.ico",
         "./index.html",
         "./main-es2015.7a24f445ed8ebd28daee.js",
@@ -26,7 +26,7 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [
+      "files": [
         "./assets/fonts/Thrones.ttf",
         "./assets/icons/newlogo.jpg",
         "./assets/img/mahawiki.png",
