@@ -8,29 +8,29 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "assets/img/mahawiki.png",
+      "src": "assets/icons/newlogo.jpg",
       "sizes": "72x72",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "assets/img/mahawiki.png",
+      "src": "assets/icons/newlogo.jpg",
       "sizes": "96x96",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "assets/icons/icon.png",
+      "src": "assets/icons/newlogo.jpg",
       "sizes": "128x128",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "assets/img/mahawiki.png",
+      "src": "assets/icons/newlogo.jpg",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/jpg"
     },    
     {
-      "src": "assets/img/mahawiki.png",
+      "src": "assets/icons/newlogo.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ]
 }
