@@ -8,28 +8,23 @@
   "start_url": "https://thedevankit.github.io/pwa",
   "icons": [
     {
-      "src": "assets/img/mahawiki.png",
-      "sizes": "72x72",
+      "src": "assets/img/mahawiki.png",      
       "type" : "image/png"
     },
     {
       "src": "assets/img/mahawiki.png",
-      "sizes": "96x96",
      "type" : "image/png"
     },
     {
       "src": "assets/img/mahawiki.png",
-      "sizes": "128x128",
       "type" : "image/png"
     },
     {
       "src": "assets/img/mahawiki.png",
-      "sizes": "144x144",
        "type" : "image/png"
     },    
     {
       "src": "assets/img/mahawiki.png",
-      "sizes": "512x512",
       "type" : "image/png"
     }
   ]
