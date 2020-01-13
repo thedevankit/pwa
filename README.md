@@ -24,6 +24,7 @@
   - https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011
   - https://blog.formpl.us/how-to-handle-post-put-requests-in-offline-applications-using-service-workers-indexedb-and-da7d0798a9ab
   - https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada
+  - https://dev.to/paco_ita/service-workers-and-caching-strategies-explained-step-3-m4f
 
 ## Demo
  1. https://vigilant-nightingale-7053bb.netlify.com/ 
