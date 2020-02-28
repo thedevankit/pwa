@@ -1,4 +1,7 @@
 # Angular-pwa-Imp
+
+ - [https://vaadin.com/learn/tutorials/learn-pwa/turn-website-into-a-pwa](https://vaadin.com/learn/tutorials/learn-pwa/turn-website-into-a-pwa)
+ - [https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
  - [Hello-PWA](https://github.com/jamesjohnson280/hello-pwa/)
  - [Build-a-production-ready-pwa-with-angular](https://itnext.io/build-a-production-ready-pwa-with-angular-and-firebase-8f2a69824fcc) 
  - [Design inspirations](https://tobiasahlin.com/spinkit/)
