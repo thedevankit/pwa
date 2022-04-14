@@ -51,6 +51,7 @@ http-server-spa dist/AngularBooksPWA/ index.html 8080
 
 ## Example Apps:
  - https://angularscript.com/pwa-apple-music-web-player-with-angular/
+ - [COVIDITAA](coviditaa.web.app)
  
 ## Resources
  1. [pwabuilder](https://www.pwabuilder.com)
